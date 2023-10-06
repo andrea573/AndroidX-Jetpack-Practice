@@ -1,5 +1,4 @@
-# Windows:
-Thumbs.db
+# Windowy
 ehthumbs.db
 Desktop.ini
 
@@ -23,7 +22,7 @@ dist/
 docs/_build/
 docs/locale/
 node_modules/
-tests/coverage_html/
+tests/coverage_ht
 tests/.coverage
 build/
 tests/report/
